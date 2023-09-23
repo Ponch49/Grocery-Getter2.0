@@ -1,0 +1,14 @@
+@import url('https:///fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body{
+    display: flex;
+    justify-content: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: large;
+
+    .header {
+        display: flex;
+        background-color: aquamarine;
+        padding: 10px 20px;
+    }
+}
